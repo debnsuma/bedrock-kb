@@ -1,4 +1,4 @@
-# Web to Wisdom: Transforming Web Content with Amazon Bedrock for Knowledge Bases
+# Web to Wisdom: Crawl web pages for your Amazon Bedrock knowledge base
 
 This repository contains the code used in the blog post [Web to Wisdom: Transforming Web Content with Amazon Bedrock for Knowledge Bases](https://community.aws/content/2j7MGeRCVUMb00EXlqIi1jk3lUa/web-to-wisdom-transforming-web-content-with-amazon-bedrock-knowledge-bases). The blog explores how to integrate web URL data with Amazon Bedrock to enhance Retrieval-Augmented Generation (RAG) applications.
 
