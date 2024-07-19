@@ -20,7 +20,7 @@ The blog post and the accompanying code demonstrate how to:
 [![Watch the video](https://img.youtube.com/vi/TIvHx81J1zI/maxresdefault.jpg)](https://www.youtube.com/watch?v=TIvHx81J1zI)
 
 - `KB_Bedrock_Accuracy_Improvement.ipynb` : Jupyter Notebook containing all the code and steps describing accuracy improvement for Knowledge Bases for Amazon Bedrock [Blog](https://community.aws/content/2jU5zpqh4cal0Lm47MBdRmKLLJ5/a-developer-s-guide-to-advanced-chunking-and-parsing-with-amazon-bedrock)
-
+[![Watch the video](https://www.youtube.com/watch?v=CFyFN0DuO5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=CFyFN0DuO5o)
 ## Features Demonstrated
 
 1. **Create the Vector Store**:
