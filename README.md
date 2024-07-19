@@ -19,7 +19,7 @@ The blog post and the accompanying code demonstrate how to:
 - `KB_Bedrock_Web_URL.ipynb`: Jupyter Notebook containing all the code and steps describing Web URL data srouce with Knowledge Bases for Amazon Bedrock. [Blog](https://community.aws/content/2j7MGeRCVUMb00EXlqIi1jk3lUa/web-to-wisdom-transforming-web-content-with-amazon-bedrock-knowledge-bases)
 [![Watch the video](https://img.youtube.com/vi/TIvHx81J1zI/maxresdefault.jpg)](https://www.youtube.com/watch?v=TIvHx81J1zI)
 
-- `KB_Bedrock_Accuracy_Improvement.ipynb` : Jupyter Notebook containing all the code and steps describing accuracy improvement for Knowledge Bases for Amazon Bedrock [Blog](TBA)
+- `KB_Bedrock_Accuracy_Improvement.ipynb` : Jupyter Notebook containing all the code and steps describing accuracy improvement for Knowledge Bases for Amazon Bedrock [Blog](https://community.aws/content/2jU5zpqh4cal0Lm47MBdRmKLLJ5/a-developer-s-guide-to-advanced-chunking-and-parsing-with-amazon-bedrock)
 
 ## Features Demonstrated
 
