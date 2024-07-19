@@ -1,9 +1,13 @@
 # Amazon Bedrock knowledge base notebooks and code samples 
 
-This repository contains the code used in the blog post [Web to Wisdom: Transforming Web Content with Amazon Bedrock for Knowledge Bases](https://community.aws/content/2j7MGeRCVUMb00EXlqIi1jk3lUa/web-to-wisdom-transforming-web-content-with-amazon-bedrock-knowledge-bases). The blog explores how to integrate web URL data with Amazon Bedrock to enhance Retrieval-Augmented Generation (RAG) applications.
+This repository contains the code used in the blog post:
 
-This repository contains Jupyter notebooks demonstrating the use of Knowledge Bases for Amazon Bedrock. These notebooks correspond to YouTube videos and blogs that explain and showcase different features of Knowledge Bases for Amazon Bedrock.
+- [Web to Wisdom: Transforming Web Content with Amazon Bedrock for Knowledge Bases](https://community.aws/content/2j7MGeRCVUMb00EXlqIi1jk3lUa/web-to-wisdom-transforming-web-content-with-amazon-bedrock-knowledge-bases). 
+- [A Developer’s Guide to Advanced Chunking and Parsing with Amazon Bedrock](https://community.aws/content/2jU5zpqh4cal0Lm47MBdRmKLLJ5/a-developer-s-guide-to-advanced-chunking-and-parsing-with-amazon-bedrock)
 
+The blogs explore how to integrate web URL data with Amazon Bedrock to enhance Retrieval-Augmented Generation (RAG) applications and advanced techniques to optimize your data retrieval with Knowledge Bases for Amazon Bedrock's using parsing, chunking and metadata customization.
+
+This repository contains Jupyter notebooks used in these blogs. 
 
 ## Overview
 
@@ -11,15 +15,17 @@ The blog post and the accompanying code demonstrate how to:
 
 1. Create a vector store using Amazon OpenSearch Serverless (OSS).
 2. Create a Knowledge Base (KB) with Amazon Bedrock.
-3. Integrate web URLs as data sources for the KB.
+3. Integrate web URLs as data sources for the KB with advanced chunking and parsing techniques.
 4. Use the RetrieveAndGenerate and Retrieve APIs to fetch and generate responses from the KB.
 
 ## File Structure
 
 - `KB_Bedrock_Web_URL.ipynb`: Jupyter Notebook containing all the code and steps describing Web URL data srouce with Knowledge Bases for Amazon Bedrock. [Blog](https://community.aws/content/2j7MGeRCVUMb00EXlqIi1jk3lUa/web-to-wisdom-transforming-web-content-with-amazon-bedrock-knowledge-bases)
+
 [![Watch the video](https://img.youtube.com/vi/TIvHx81J1zI/maxresdefault.jpg)](https://www.youtube.com/watch?v=TIvHx81J1zI)
 
 - `KB_Bedrock_Accuracy_Improvement.ipynb` : Jupyter Notebook containing all the code and steps describing accuracy improvement for Knowledge Bases for Amazon Bedrock [Blog](https://community.aws/content/2jU5zpqh4cal0Lm47MBdRmKLLJ5/a-developer-s-guide-to-advanced-chunking-and-parsing-with-amazon-bedrock)
+
 [![Watch the video](https://img.youtube.com/vi/CFyFN0DuO5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=CFyFN0DuO5o)
 ## Features Demonstrated
 
