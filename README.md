@@ -1,6 +1,6 @@
 # Amazon Bedrock knowledge base notebooks and code samples 
 
-This repository contains the code used in the blog post:
+This repository contains the code used in the blog posts:
 
 - [Web to Wisdom: Transforming Web Content with Amazon Bedrock for Knowledge Bases](https://community.aws/content/2j7MGeRCVUMb00EXlqIi1jk3lUa/web-to-wisdom-transforming-web-content-with-amazon-bedrock-knowledge-bases). 
 - [A Developer’s Guide to Advanced Chunking and Parsing with Amazon Bedrock](https://community.aws/content/2jU5zpqh4cal0Lm47MBdRmKLLJ5/a-developer-s-guide-to-advanced-chunking-and-parsing-with-amazon-bedrock)
